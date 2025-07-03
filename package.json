@@ -1,0 +1,14 @@
+{
+  "name": "pick-of-gods-bot",
+  "version": "1.0.0",
+  "description": "RS3 helper bot with Discord and Alt1 integration",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  },
+  "author": "PickOfGods",
+  "license": "MIT"
+}
